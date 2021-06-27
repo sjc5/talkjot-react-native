@@ -1,8 +1,4 @@
 # talkjot-app
-TalkJot is a React Native app that makes it easy to email yourself voice-to-text notes.
-
-Built with [React Native](https://reactnative.dev)
-
-Panding page, which links to the app in Apple App Store and Google Play Store: [talkjot.co](https://talkjot.co)
+[talkjot.co](https://talkjot.co) is a [React Native](https://reactnative.dev) app that makes it easy to email yourself voice-to-text notes.
 
 Copyright © sjc / activefog
