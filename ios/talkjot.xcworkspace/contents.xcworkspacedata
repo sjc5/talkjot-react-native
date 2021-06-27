@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/scookhq/documentsFix/GitHub/talkjot-2/talkjot/ios/talkjot.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:talkjot.xcodeproj">
+   </FileRef>
+</Workspace>
